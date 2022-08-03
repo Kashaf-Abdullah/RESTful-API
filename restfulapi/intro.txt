@@ -1,0 +1,28 @@
+npm i express
+npm i mongoose
+forvalidator
+
+npm i validator
+
+
+make src folder
+
+make one file in src 
+---> type nul >app.js
+
+
+FOR NODEMON
+
+  "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+
+    >npm run dev
+
+
+    for hbs file running
+install 
+npm i hbs
+
+
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js -e js,hbs"
